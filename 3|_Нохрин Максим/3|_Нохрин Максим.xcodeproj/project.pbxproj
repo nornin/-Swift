@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B5D926E3234F0FA300D94891 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D926E2234F0FA300D94891 /* main.swift */; };
+		B553C57F2351AF7E00A411C8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B553C57E2351AF7E00A411C8 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		B5D926DD234F0FA300D94891 /* CopyFiles */ = {
+		B553C5792351AF7E00A411C8 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,12 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		B5D926DF234F0FA300D94891 /* 2|_Нохрин Максим */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2|_Нохрин Максим"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B5D926E2234F0FA300D94891 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B553C57B2351AF7E00A411C8 /* 3|_Нохрин Максим */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "3|_Нохрин Максим"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B553C57E2351AF7E00A411C8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		B5D926DC234F0FA300D94891 /* Frameworks */ = {
+		B553C5782351AF7E00A411C8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,66 +38,66 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		B5D926D6234F0FA300D94891 = {
+		B553C5722351AF7E00A411C8 = {
 			isa = PBXGroup;
 			children = (
-				B5D926E1234F0FA300D94891 /* 2|_Нохрин Максим */,
-				B5D926E0234F0FA300D94891 /* Products */,
+				B553C57D2351AF7E00A411C8 /* 3|_Нохрин Максим */,
+				B553C57C2351AF7E00A411C8 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		B5D926E0234F0FA300D94891 /* Products */ = {
+		B553C57C2351AF7E00A411C8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B5D926DF234F0FA300D94891 /* 2|_Нохрин Максим */,
+				B553C57B2351AF7E00A411C8 /* 3|_Нохрин Максим */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B5D926E1234F0FA300D94891 /* 2|_Нохрин Максим */ = {
+		B553C57D2351AF7E00A411C8 /* 3|_Нохрин Максим */ = {
 			isa = PBXGroup;
 			children = (
-				B5D926E2234F0FA300D94891 /* main.swift */,
+				B553C57E2351AF7E00A411C8 /* main.swift */,
 			);
-			path = "2|_Нохрин Максим";
+			path = "3|_Нохрин Максим";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B5D926DE234F0FA300D94891 /* 2|_Нохрин Максим */ = {
+		B553C57A2351AF7E00A411C8 /* 3|_Нохрин Максим */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B5D926E6234F0FA300D94891 /* Build configuration list for PBXNativeTarget "2|_Нохрин Максим" */;
+			buildConfigurationList = B553C5822351AF7E00A411C8 /* Build configuration list for PBXNativeTarget "3|_Нохрин Максим" */;
 			buildPhases = (
-				B5D926DB234F0FA300D94891 /* Sources */,
-				B5D926DC234F0FA300D94891 /* Frameworks */,
-				B5D926DD234F0FA300D94891 /* CopyFiles */,
+				B553C5772351AF7E00A411C8 /* Sources */,
+				B553C5782351AF7E00A411C8 /* Frameworks */,
+				B553C5792351AF7E00A411C8 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "2|_Нохрин Максим";
-			productName = "2|_Нохрин Максим";
-			productReference = B5D926DF234F0FA300D94891 /* 2|_Нохрин Максим */;
+			name = "3|_Нохрин Максим";
+			productName = "3|_Нохрин Максим";
+			productReference = B553C57B2351AF7E00A411C8 /* 3|_Нохрин Максим */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		B5D926D7234F0FA300D94891 /* Project object */ = {
+		B553C5732351AF7E00A411C8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = Ololo;
 				TargetAttributes = {
-					B5D926DE234F0FA300D94891 = {
+					B553C57A2351AF7E00A411C8 = {
 						CreatedOnToolsVersion = 11.0;
 					};
 				};
 			};
-			buildConfigurationList = B5D926DA234F0FA300D94891 /* Build configuration list for PBXProject "2|_Нохрин Максим" */;
+			buildConfigurationList = B553C5762351AF7E00A411C8 /* Build configuration list for PBXProject "3|_Нохрин Максим" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -105,29 +105,29 @@
 				en,
 				Base,
 			);
-			mainGroup = B5D926D6234F0FA300D94891;
-			productRefGroup = B5D926E0234F0FA300D94891 /* Products */;
+			mainGroup = B553C5722351AF7E00A411C8;
+			productRefGroup = B553C57C2351AF7E00A411C8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B5D926DE234F0FA300D94891 /* 2|_Нохрин Максим */,
+				B553C57A2351AF7E00A411C8 /* 3|_Нохрин Максим */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		B5D926DB234F0FA300D94891 /* Sources */ = {
+		B553C5772351AF7E00A411C8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B5D926E3234F0FA300D94891 /* main.swift in Sources */,
+				B553C57F2351AF7E00A411C8 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		B5D926E4234F0FA300D94891 /* Debug */ = {
+		B553C5802351AF7E00A411C8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -187,7 +187,7 @@
 			};
 			name = Debug;
 		};
-		B5D926E5234F0FA300D94891 /* Release */ = {
+		B553C5812351AF7E00A411C8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -240,7 +240,7 @@
 			};
 			name = Release;
 		};
-		B5D926E7234F0FA300D94891 /* Debug */ = {
+		B553C5832351AF7E00A411C8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -251,7 +251,7 @@
 			};
 			name = Debug;
 		};
-		B5D926E8234F0FA300D94891 /* Release */ = {
+		B553C5842351AF7E00A411C8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -265,25 +265,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B5D926DA234F0FA300D94891 /* Build configuration list for PBXProject "2|_Нохрин Максим" */ = {
+		B553C5762351AF7E00A411C8 /* Build configuration list for PBXProject "3|_Нохрин Максим" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B5D926E4234F0FA300D94891 /* Debug */,
-				B5D926E5234F0FA300D94891 /* Release */,
+				B553C5802351AF7E00A411C8 /* Debug */,
+				B553C5812351AF7E00A411C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B5D926E6234F0FA300D94891 /* Build configuration list for PBXNativeTarget "2|_Нохрин Максим" */ = {
+		B553C5822351AF7E00A411C8 /* Build configuration list for PBXNativeTarget "3|_Нохрин Максим" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B5D926E7234F0FA300D94891 /* Debug */,
-				B5D926E8234F0FA300D94891 /* Release */,
+				B553C5832351AF7E00A411C8 /* Debug */,
+				B553C5842351AF7E00A411C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = B5D926D7234F0FA300D94891 /* Project object */;
+	rootObject = B553C5732351AF7E00A411C8 /* Project object */;
 }
